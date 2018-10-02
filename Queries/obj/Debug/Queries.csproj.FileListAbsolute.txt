@@ -1,0 +1,7 @@
+C:\Stefan\Workspace\LinqSamples\Queries\bin\Debug\Queries.exe.config
+C:\Stefan\Workspace\LinqSamples\Queries\bin\Debug\Queries.exe
+C:\Stefan\Workspace\LinqSamples\Queries\bin\Debug\Queries.pdb
+C:\Stefan\Workspace\LinqSamples\Queries\obj\Debug\Queries.csproj.CoreCompileInputs.cache
+C:\Stefan\Workspace\LinqSamples\Queries\obj\Debug\Queries.exe
+C:\Stefan\Workspace\LinqSamples\Queries\obj\Debug\Queries.pdb
+C:\Stefan\Workspace\LinqSamples\Queries\obj\Debug\Queries.csprojAssemblyReference.cache
