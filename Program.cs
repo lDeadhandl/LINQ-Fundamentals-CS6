@@ -1,5 +1,4 @@
-﻿using LinqSamples;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -22,6 +21,7 @@ namespace Features
             // always returns void
             Action<int> write = x => Console.WriteLine(x);
             write(square(add(3,5)));
+             
             //creating an array of Employee using IEnumerable
             IEnumerable<Employee> developers = new Employee[]
             {
